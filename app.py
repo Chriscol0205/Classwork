@@ -1,4 +1,5 @@
-print("hello")
+# print("hello")
 
 if "x" == "x":
     print("The same")
+
